@@ -21,3 +21,6 @@ Youtube: Azure For Everyone – Adam Marczak:  https://www.youtube.com/watch?v=N
 Youtube: A Guide to Cloud – Susanth: https://www.youtube.com/watch?v=UyaZWgkuQE8&list=PLhLKc18P9YOD2Iu7rlZ7Y5AM1mv66kMI7
 
 LinkedIN learning: Azure Fundamentals: Sharon - https://www.linkedin.com/learning/exam-prep-microsoft-azure-fundamentals-az-900-2/azure-certification-for-advancement?u=52905228
+
+Presentation: [Microsoft Azure Fundamentals  AZ-900 Study Jam.pptx](https://github.com/navaneeth20/Microsoft-Azure-Fundamentals-AZ-900-Study-Jam/files/6526183/Microsoft.Azure.Fundamentals.AZ-900.Study.Jam.pptx)
+
